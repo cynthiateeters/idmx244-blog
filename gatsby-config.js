@@ -353,8 +353,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `IDMX`,
-        short_name: `IDMX`,
+        name: `IDMX268`,
+        short_name: `IDMX268`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,

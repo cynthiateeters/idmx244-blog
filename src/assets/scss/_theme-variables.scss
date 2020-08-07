@@ -5,6 +5,7 @@ $breakpoint-lg: 992px;
 $breakpoint-xl: 1200px;
 
 :root {
+  color: #333;
   --font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Avenir Next", avenir, "Helvetica Neue", Helvetica, Ubuntu,
     Roboto, Noto, Segoe ui, Arial, sans-serif;
   --font-family-display: "Roboto", -apple-system, BlinkMacSystemFont, "Avenir Next", avenir, "Helvetica Neue", Helvetica,
@@ -17,11 +18,11 @@ $breakpoint-xl: 1200px;
 
   --primary-dark: #4c1f12;
 
-  --home-link-color: #cb5430;
+  --home-link-color: #b14a2a;
   --home-link-hover-color: var(--primary-color);
 
-  --button-color: #fe9676;
-  --button-alternate-color: #fed2c4;
+  --button-color: #111;
+  --button-alternate-color: #fee1d8;
 
   --post-link-color: #0f070b;
 

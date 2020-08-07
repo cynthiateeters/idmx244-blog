@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About IDMX
+title: About IDMX268
 ---
 
 ## Course Objectives

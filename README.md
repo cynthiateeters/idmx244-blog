@@ -1,4 +1,4 @@
-# IDMX Template
+# IDMX268
 
 ## From the Original Template Author 🙏 Thank you
 

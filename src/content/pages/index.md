@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: IDMX
-tagline: Interface Design & Web Development
+title: IDMX268
+tagline: Web Development II
 cta:
   ctaText: Know more
   ctaLink: /about
